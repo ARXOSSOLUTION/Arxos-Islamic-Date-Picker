@@ -1,7 +1,7 @@
 {
   "name" : "arxos-islamic-date-picker",
   "version" : "1.0",
-  "Release" : "1.0.0.1",
+  "release" : "1.0.0.1",
   "description" : "The light weight  Arxos Hijri Date picker plugin is easy to use and even easier to setup.",
   "keywords" : ["datepicker", "hijiri", "calendar"],
   "homepage" : "www.arxos.io",
@@ -27,6 +27,7 @@
       "plugin" : {
         "internalName" : "ArxosDatePicker",
         "type" : "dynamic action",
+        "release" : "1.0.0.1",
         "demo" : "www.arxos.io",
         "previewImage" : "https://raw.githubusercontent.com/ARXOSSOLUTION/Arxos-Islamic-Date-Picker/master/HijriDatePicker.png"
       }
