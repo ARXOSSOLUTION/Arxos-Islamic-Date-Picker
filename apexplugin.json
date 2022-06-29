@@ -1,0 +1,22 @@
+{
+  "name": "arxos-date-islamic-picker",
+  "version": "1.0.0",
+  "description": "arxos-date-islamic-picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedelsayed0149/Arxos-plugin.git"
+  },
+  "keywords": [
+    "arxos"
+  ],
+  "author": "arxos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedelsayed0149/Arxos-plugin/issues"
+  },
+  "homepage": "https://github.com/mohamedelsayed0149/Arxos-plugin#readme"
+}
