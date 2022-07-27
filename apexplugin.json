@@ -1,5 +1,5 @@
 {
-  "name" : "Arxos-OmElQuora-Dateicker",
+  "name" : "Arxos-OmElQuora-Datepicker",
   "version" : "1.0",
   "release" : "1.0.0.1",
   "description" : "The light weight  Arxos Hijri Date picker plugin is easy to use and even easier to setup.",
@@ -28,7 +28,7 @@
         "internalName" : "ArxosDatePicker",
         "type" : "dynamic action",
         "release" : "1.0.0.1",
-        "demo" : "https://www.arxos.io/",
+        "demo" : "https://github.com/ARXOSSOLUTION/Arxos-Islamic-Date-Picker/issues",
         "previewImage" : "https://raw.githubusercontent.com/ARXOSSOLUTION/Arxos-Islamic-Date-Picker/master/HijriDatePicker.png"
       }
     }
